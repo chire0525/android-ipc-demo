@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPC Demo</string>
+
+    <string name="messenger_button">Messenger</string>
+    <string name="aidl_button">AIDL</string>
+    <string name="provider_button">Content Provider</string>
+    <string name="binder_pool_button">Binder Pool</string>
+
+    <string name="get_list_size_button">Fetch Book Number</string>
+</resources>
